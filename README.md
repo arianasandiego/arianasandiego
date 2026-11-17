@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Ariana 👋
+### Computing (Information Technology) Student | Aspiring Network Engineer
+
+Welcome to my GitHub profile!
+
+I'm a Computing (Information Technology) student with a strong interest in computer networking and network infrastructure. My career goal is to become a Network Engineer and develop the technical skills required to design, configure, maintain and troubleshoot computer networks.
+
+I use GitHub to document my learning journey, organise my network labs and showcase projects as I continue to develop my IT skills.
 
 <!--
 **arianasandiego/arianasandiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
